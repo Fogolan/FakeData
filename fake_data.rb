@@ -69,11 +69,11 @@ if count.to_i<1 || count.to_i>10000001
 end
 errorForOne = (errors.to_f*count.to_f)/count.to_f
 
-cities = File.readlines(region+'_cities.txt')
-streets= File.readlines(region+'_streets.txt')
-names = File.readlines(region+'_name_m.txt')
-surnames = File.readlines(region+'_surname_m.txt')
-numbers = File.readlines(region+'_numbers.txt')
+cities = File.readlines(region.downcase+'_cities.txt')
+streets= File.readlines(region.downcase+'_streets.txt')
+names = File.readlines(region.downcase+'_name_m.txt')
+surnames = File.readlines(region.downcase+'_surname_m.txt')
+numbers = File.readlines(region.downcase+'_numbers.txt')
 i=0
 err = 0
 loop do
