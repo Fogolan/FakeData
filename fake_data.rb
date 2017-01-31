@@ -4,7 +4,7 @@
   RU =  File.readlines('alphabet.txt')
 
   def addError(s,c)
-    if c
+    if c == "en.US" || c == "en.GB"
       return s.insert(rand(s.size),US[rand(US.size)])
     else
       return s.insert(rand(s.size),RU[rand(RU.size)].chomp)
@@ -108,7 +108,7 @@ end
       if [3,4,6].include?(numEl)
         array[numEl] = addNumError(array[numEl])
       else
-      array[numEl] = addError(array[numEl],check)
+      array[numEl] = addError(array[numEl],region)
       end
       err+=1
       break if errors<=err
