@@ -1,0 +1,96 @@
+Abilene, Texas, 78301, USA
+Akron, Ohio, 43085, USA
+Albuquerque, New Mexico, 87501, USA
+Alexandria Virginia, 98506, USA
+Allentown, Pennsylvania, 17101, USA
+Amarillo, Texas, 78304, USA
+Aurora, Colorado, 80214, USA
+Aurora, Illinois, 62701, USA
+Austin, Texas, 78367, USA
+Bakersfield, California, 94203, USA
+Baltimore Maryland, 21405, USA
+Baton, Rouge, Louisiana, 70806, USA
+Beaumont, Texas, 78303, USA
+Bellevue, Washington, 25305, USA
+Berkeley, California, 94206, USA
+Billings, Montana, 59606, USA
+Birmingham, Alabama, 36101, USA
+Boise, Idaho, 83703, USA
+Boston Massachusetts, 02101, USA
+Boulder, Colorado, 80215, USA
+Bridgeport, Connecticut, 06102, USA
+Centennial, Colorado, 80216, USA
+Chandler, Arizona, 85007, USA
+Charleston, South Carolina, 29201, USA
+Charlotte, North Carolina, 27601, USA
+Chattanooga, Tennessee, 37201, USA
+Chesapeake Virginia, 98501, USA
+Chicago, Illinois, 62705, USA
+Chula Vista, California, 94209, USA
+Cincinnati, Ohio, 4306, USA
+Clarksville, Tennessee, 37202, USA
+Clearwater, Florida, 32345, USA
+Cleveland, Ohio, 43087, USA
+Colorado Springs, Colorado, 80217, USA
+Columbia, South Carolina, 29202, USA
+Columbia, Missouri, 65107, USA
+Columbus, Ohio, 43088V, USA
+Columbus, Georgia, 30317, USA
+Concord, California, 94256, USA
+Coral, Springs, Florida, 32346, USA
+Corona, California, 94213, USA
+Corpus, Christi, Texas, 78399, USA
+Costa, Mesa, California, 94223, USA
+Daly, City, California, 95203, USA
+Davenport, Iowa, 50301, USA
+Denton, Texas, 78398, USA
+Denver, Colorado, 80218, USA
+Des Moines, Iowa, 50302, USA
+Detroit, Michigan, 48901, USA
+Downey, California, 95203, USA
+Elgin, Illinois, 62707, USA
+Elizabeth, New Jersey, 08604, USA
+New York, New York, 12201, USA
+Newark, New Jersey, 08603, USA
+Newport, News Virginia, 98507, USA
+Norfolk Virginia, 98509, USA
+Pembroke Pines, Florida, 32399, USA
+Peoria, Arizona, 85056, USA
+Peoria, Illinois, 62791, USA
+Philadelphia Pennsylvania, 17104, USA
+Phoenix, Arizona, 85003, USA
+Pittsburgh, Pennsylvania, 17109, USA
+Pomona, California, 94216, USA
+Pompano Beach, Florida, 32301, USA
+Port St Lucie, Florida, 32302, USA
+Portland, Oregon, 97307, USA
+Providence, Rhode Island, 02901, USA
+Provo, Utah, 84101, USA
+Pueblo, Colorado, 80219, USA
+Rancho Cucamonga, California, 94217, USA
+Roseville, California, 94218, USA
+Round Rock, Texas, 78388, USA
+Salem, Oregon, 97309, USA
+Salinas, California, 94219, USA
+Salt Lake City, Utah, 84102, USA
+San, Antonio, Texas, 78399, USA
+Santa, Rosa, California, 94220, USA
+Savannah, Georgia, 30318, USA
+Scottsdale, Arizona, 85090, USA
+Seattle, Washington, 25307, USA
+Shreveport, Louisiana, 70812, USA
+Simi, Valley, California, 94290, USA
+Sioux, Falls, South Dakota, 57501, USA
+South, Bend, Indiana, 46287, USA
+Spokane, Washington, 25345, USA
+Springfield, Massachusetts, 02102, USA
+Springfield, Illinois, 62751, USA
+St Louis, Missouri, 65109, USA
+St Paul, Minnesota, 55106, USA
+St Petersburg, Florida, 32321, USA
+Stamford, Connecticut, 06109, USA
+Sterling, Heights, Michigan, 48905, USA
+Stockton, California, 94291, USA
+Winston-Salem, North Carolina, 27612, USA
+Worcester Massachusetts, 02103, USA
+Yonkers, New York, 12203, USA

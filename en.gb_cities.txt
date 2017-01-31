@@ -1,0 +1,160 @@
+BN26, Hailsham East, Great Britain
+BN26, Hailsham South and West, Great Britain
+BN26, Hellingly, Great Britain
+BN26, Polegate North, Great Britain
+BN26, Polegate South, Great Britain
+BN26, Willingdon, Great Britain
+BN27, Heathfield East, Great Britain
+BN27, East Dean, Great Britain
+BN27, Hellingly, Great Britain
+BN27, Hailsham Central and Nort, Great Britainh
+BN27, Ninfield and Hooe with Wartling, Great Britain
+BN27, Herstmonceux, Great Britain
+BN27, Chiddingly and East Hoathly, Great Britain
+BN27, Pevensey and Westham, Great Britain
+BN27, Alfriston, Great Britain
+BN27, Hailsham South and West, Great Britain
+BN27, Hailsham East, Great Britain
+BN3, Brunswick and Adelaide, Great Britain
+BN3, Central Hove, Great Britain
+BN3, Goldsmid, Great Britain
+BN3, Wish, Great Britain
+BN3, Hangleton and Knoll, Great Britain
+BN3, Regency, Great Britain
+BN3, Westbourne, Great Britain
+BN3, Stanford, Great Britain
+BN41, North Portslade, Great Britain
+BN41, Wish, Great Britain
+BN41, South Portslade, Great Britain
+BN41, Eastbrook, Great Britain
+BN41, Southwick Green, Great Britain
+BN42, Wish, Great Britain
+BN42, Eastbrook, Great Britain
+BN42, Hillside, Great Britain
+BN42, Southwick Green, Great Britain
+BN43, St. Nicolas, Great Britain
+BN43, Southwick Green, Great Britain
+BN43, Southlands, Great Britain
+BN43, Widewater, Great Britain
+BN43, St. Mary's, Great Britain
+BN43, Buckingham, Great Britain
+BN43, Hillside, Great Britain
+BN43, Mash Barn, Great Britain
+BN43, Marine, Great Britain
+BN44, Henfield, Great Britain
+BN44, Bramber,  Upper Woodmancote, Great Britain
+BN44, Steyning, Great Britain
+BN44, Chanctonbury, Great Britain
+BN45, St. Peter's and North Laine, Great Britain
+BN45, Hurstpierpoint and Downs, Great Britain
+BN5, Cowfold,  Shermanbury and West Grinstead, Great Britain
+BN5, Bramber,  Upper Beeding and Woodmancote, Great Britain
+BN5, Hurstpierpoint and Downs, Great Britain
+BN5, Henfield, Great Britain
+BN5, Bolney, Great Britain
+BN50, Regency, Great Britain
+BN50, St. Peter's and North Lai, Great Britain
+BN51, Rottingdean Coastal, Great Britain
+BN52, Goldsmid, Great Britain
+BN52, Central Hove, Great Britain
+BN6, Ditchling and Westmeston, Great Britain
+BN6, Plumpton East, Great Britain
+BN6, Bolney, Great Britain
+BN6, Hassocks, Great Britain
+BN6, Hurstpierpoint and Downs, Great Britain
+BN6, Bramber,  Upper Beeding and Woodmancote, Great Britain
+BN7, Lewes Castle, Great Britain
+BN7, Plumpton, Great Britain
+BN7, Lewes Priory, Great Britain
+BB7, Primrose, Great Britain
+BB7, Billington and Old Langho, Great Britain
+BB7, Waddington and West Bradford, Great Britain
+BB7, Chatburn, Great Britain
+BB7, Gisburn,  Rimington, Great Britain
+BB7, Bowland,  Newton and Slaidburn, Great Britain
+BB8, Blacko and Higherford, Great Britain
+BB8, Walverden, Great Britain
+BB8, Waterside, Great Britain
+BB9, Blacko and Higherford, Great Britain
+BB9, Southfield, Great Britain
+BB9, Reedley, Great Britain
+BB9, Higham and Pendleside, Great Britain
+BB9, Clover Hill, Great Britain
+BB9, Old Laund Booth, Great Britain
+BB9, Whitefield, Great Britain
+BB9, Gisburn,  Rimington, Great Britain
+BB9, Brierfield, Great Britain
+BB9, Bradley, Great Britain
+BB9, Craven, Great Britain
+BB9, Walverden, Great Britain
+BB9, Barrowford, Great Britain
+BB9, Marsden, Great Britain
+BB94, Earby, Great Britain
+BD1, Bolton and Undercliffe, Great Britain
+BD1, Little Horton, Great Britain
+BD1, City, Great Britain
+BD1, Bowling and Barkerend, Great Britain
+BD1, Manningham, Great Britain
+BD10, Windhill and Wrose, Great Britain
+BD10, Bolton and Undercliffe, Great Britain
+BD10, Horsforth, Great Britain
+BD10, Calverley and Farsley, Great Britain
+BD10, Idle and Thackley, Great Britain
+BD10, Eccleshill, Great Britain
+BD11, Morley North, Great Britain
+BD11, Cleckheaton, Great Britain
+BD11, Tong, Great Britain
+BD11, Birstall and Birkenshaw, Great Britain
+BD12, Cleckheaton, Great Britain
+BD12, Wyke, Great Britain
+BD12, Little Horton, Great Britain
+BD12, Royds, Great Britain
+BD12, Tong, Great Britain
+BD13, Illingworth and Mixenden, Great Britain
+BD13, Northowram and Shelf, Great Britain
+BD13, Thornton and Allerton, Great Britain
+BD13, Queensbury, Great Britain
+BD13, Clayton and Fairweather Green, Great Britain
+BD13, Bingley Rural, Great Britain
+BD14, Clayton and Fairweather Green, Great Britain
+BD14, Thornton and Allerton, Great Britain
+BD14, Queensbury, Great Britain
+BD15, Bingley Rural, Great Britain
+BD15, Clayton and Fairweather Green, Great Britain
+BD15, Thornton and Allerton, Great Britain
+BD3, Calverley and Farsley, Great Britain
+BD3, Bolton and Undercliffe, Great Britain
+BD3, Bradford Moor, Great Britain
+BD4, Bradford Moor, Great Britain
+BD4, Little Horton, Great Britain
+BD4, Bowling and Barkerend, Great Britain
+BD4, Tong, Great Britain
+BD4, Morley North, Great Britain
+BD4, Birstall and Birkenshaw, Great Britain
+BD4, Pudsey, Great Britain
+BD4, Wyke, Great Britain
+BD5, Little Horton, Great Britain
+BD5, Bowling and Barkerend, Great Britain
+BD5, Tong, Great Britain
+BD5, Great Horton, Great Britain
+BD5, Wibsey, Great Britain
+B32, Quinton, Great Britain
+B32, Bartley Green, Great Britain
+B32, Harborne, Great Britain
+B32, Uffdown, Great Britain
+B33, Sheldon, Great Britain
+RH16, Lindfield, Great Britain
+RH16, Haywards Heath Lucastes, Great Britain
+RH16, Cuckfield, Great Britain
+RH19, Forest Row, Great Britain
+RH19, Dormansland and Felcourt, Great Britain
+RH19, Felbridge, Great Britain
+RH19, High Weald, Great Britain
+RH20, Wisborough Green, Great Britain
+RH20, Chantry, Great Britain
+RH20, Chanctonbury, Great Britain
+RH20, Billingshurst and Shipley, Great Britain
+RH3, Capel,  Leigh and Newdigate, Great Britain
+RH3, Brockham,  Betchworth and Buckland, Great Britain
+AL2, London, Great Britain
+AL4, London , Great Britain
